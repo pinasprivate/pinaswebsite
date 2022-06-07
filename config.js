@@ -8,7 +8,8 @@
 */
 let option = {
     server_name: "Pinas Private Server",
-    server_description: "Your server Description",
+    server_description: "This Discord server is for Growtopia Private Server where all players may enjoy and experience the game as if it were real.
+",
     owner: [
         "Solid#1234",
         "PrettySai#3368"
