@@ -7,14 +7,14 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
+    server_name: "Pinas Private Server",
     server_description: "Your server Description",
     owner: [
-        "Owner Server#0000",
-        "Owner Server#0000"
+        "Solid#1234",
+        "PrettySai#3368"
     ],
-    discord_invite_link: "Your permanent discord invite link",
-    ip_address: "Your server ip address",
-    host_for_android: "Your host link for android device"
+    discord_invite_link: "https://discord.gg/4EmBgJB55C",
+    ip_address: "20.24.137.97",
+    host_for_android: "https://www.mediafire.com/file/b4upqjupbwgsz95/pinas.txt/file"
 }
 
