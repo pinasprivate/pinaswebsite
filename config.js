@@ -17,6 +17,7 @@ let option = {
         "Kathlyn#8973",
         "*Gab#2958",
         "Sol.#5129",
+        "name#0465",
     ],
     discord_invite_link: "https://discord.gg/4EmBgJB55C",
     ip_address: "20.24.137.97",
