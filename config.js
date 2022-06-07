@@ -12,6 +12,11 @@ let option = {
     owner: [
         "Solid#1234",
         "PrettySai#3368"
+        "Reena#8232"
+        "Langga#0699"
+        "Kathlyn#8973"
+        "*Gab#2958"
+        "Sol.#5129"
     ],
     discord_invite_link: "https://discord.gg/4EmBgJB55C",
     ip_address: "20.24.137.97",
